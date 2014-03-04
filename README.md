@@ -5,7 +5,7 @@ A clear and relaxed theme for Atom
 Preview
 ---
 
-![alt text](./screenshot.png "Screenshot moe light theme")
+![alt text](https://raw.github.com/FireZenk/moe-light/master/screenshot.png "Screenshot moe light theme")
 
 Author
 ------
